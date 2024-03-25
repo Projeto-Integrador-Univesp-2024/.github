@@ -5,7 +5,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Projeto-Integrador-Univesp-2024/docker?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/Projeto-Integrador-Univesp-2024/docker?style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Projeto-Integrador-Univesp-2024/docker?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/Projeto-Integrador-Univesp-2024/docker?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/Projeto-Integrador-Univesp-2024/.github?style=for-the-badge)
 
 > O projeto em questão é uma proposta a introdução de um inovador aplicativo de educação financeira voltado para crianças.
 
