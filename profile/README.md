@@ -1,7 +1,5 @@
 # Despertando Mentes Jovens: Jornada na Educação Financeira Infantil
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Projeto-Integrador-Univesp-2024_docker&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Projeto-Integrador-Univesp-2024_docker)
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/Projeto-Integrador-Univesp-2024/docker?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Projeto-Integrador-Univesp-2024/docker?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/Projeto-Integrador-Univesp-2024/docker?style=for-the-badge)
